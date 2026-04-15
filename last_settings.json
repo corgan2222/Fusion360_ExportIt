@@ -1,0 +1,20 @@
+{
+  "directory": "C:\\tmp\\fusion_export",
+  "file_types": [
+    "f3d",
+    "step",
+    "stl",
+    "3mf"
+  ],
+  "use_active_folder": true,
+  "show_folders": false,
+  "projects": [
+    "test"
+  ],
+  "unhide_all": true,
+  "save_sketches": false,
+  "version_count": 0,
+  "all_versions": false,
+  "version_separator_is_space": false,
+  "export_non_design_files": false
+}
